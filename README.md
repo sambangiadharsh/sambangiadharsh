@@ -1,6 +1,6 @@
 Please  visit:https://prayan.onrender.com
 <h1 align="center">Hi 👋, I'm Adarsh</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h3 align="center">A passionate  software developer from India</h3>
 <img align="center" alt="Coding" width="850" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/41f42ffb8825a7c57ff4810593e5ba5d-1677459265/Light%20bulb/do-an-animated-pixel-art-banner-for-youtube-twitch-a-videogame-etc.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sambangiadharsh&label=Profile%20views&color=0e75b6&style=flat" alt="sambangiadharsh" /> </p>
